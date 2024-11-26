@@ -96,4 +96,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome].
+Desenvolvido com ❤️ por Afonso.
